@@ -28,3 +28,11 @@ SYSTEM SCREENSHOTS
 <img src = "03.png" width ="1000" />
 <img src = "04.png" width ="1000" />
 <img src = "05.png" width ="1000" />
+
+SYSTEM PROTOTYPES
+
+Admin Portal: https://xd.adobe.com/view/4c80b6b9-ad76-4fda-8507-0bb90ed7f328-19d3/screen/72396652-306e-46c9-ad9d-250b7de39056
+
+Foreign Client: https://xd.adobe.com/view/94031bd6-a977-4b6d-a108-8043371585ee-c150/
+
+Local Client: https://xd.adobe.com/view/18ed8cbb-a083-4d19-97a6-13cd952e7a75-4dbe/
